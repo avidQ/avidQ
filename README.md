@@ -1,6 +1,6 @@
 ### About Avid Farhoodfar, PhD
 
-Prof. Avid Farhoodfar is a faculty at the MSCS Program at Sofia University. Avid is a quantum physicist and university advisor & instructor for 10+ years. She obtained her Ph.D. in Theoretical Quantum Condensed Matters and three M.Sc. degrees, in software engineering and Computer Science, Superconductivity, and Plasma Physics.
+Prof. Avid Farhood is a faculty at the MSCS Program at Sofia University. Avid is a quantum physicist and university advisor & instructor for 10+ years. She obtained her Ph.D. in Theoretical Quantum Condensed Matters and three M.Sc. degrees, in software engineering and Computer Science, Superconductivity, and Plasma Physics.
 
 Avid is the founder of AvidQuantum (Links to an external site.). AvidQuantum (Links to an external site.) is a distributed quantum computing cloud platform offering the foundational technologies needed for organizations to build powerful quantum systems.
 
